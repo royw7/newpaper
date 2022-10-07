@@ -1,0 +1,51 @@
+
+.page {
+  width: 350px;
+  height: 500px;
+  color: #D3D0CB;
+}
+
+#article_title {
+  font-family: 'Anton', sans-serif;;
+  letter-spacing: 3px;
+  color:#461220;
+}
+
+#intro {
+  font-family: 'Oswald', sans-serif;
+  line-height: 2.5;
+  color:#8C2F39
+
+}
+
+.question{
+  font-family: 'Raleway';
+   font-weight:bold;  
+   color: #4C5760
+
+}
+
+.answer{
+  font-family: 'Raleway', sans-serif;
+  color: #4C5760
+
+}
+
+#block_quote {
+  border-left: solid ;
+  border-color: #4C5760;
+  font-family: 'Oswald', sans-serif;;
+  font-size:larger;
+  color: #8C2F39;
+  margin-left: 140px;
+  padding-left: 10px;
+  border-radius: 15px;
+  border-width: medium;
+  text-shadow: 2px 2px #ff0000;
+  box-shadow: 10px 5px 5px red;
+
+
+
+  
+
+}
